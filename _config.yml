@@ -1,28 +1,28 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: Vina Jar
+title: Vina Jar - Java Core, Java Framework, Java Tools,...
+keywords: java, trannguyenhan
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  Java Core, Java Framework, Java Tools,...
 lang: en-US
-timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+timezone:  Asia/Ho_Chi_Minh
+repo: https://github.com/vinajar/vinajar.github.io # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: trannguyenhan
+  bio: I'm Dev
   picture: assets/images/profile.jpg 
   github: onepase # github username
   twitter: onepase # twitter username
   facebook: onepase # facebook username
   instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  youtube: https://www.youtube.com/@tran_nguyenhan # youtube username
+  linkedin: trannguyenhan # linkedin username
+  email: trannguyenhan01092000@gmail.com # email adress
 
 
 # URL settings
