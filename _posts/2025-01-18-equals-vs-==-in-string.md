@@ -1,9 +1,9 @@
 ---
-title: "== và equals khác nhau như thế nào?"
+title: "== và equals trong so sánh chuỗi khác nhau như thế nào?"
 date: 2025-01-18T00:00:00+00:00
 author: trannguyenhan
 layout: post
-permalink: /equals-vs-==/
+permalink: /equals-vs-==-in-string/
 categories: Java Core
 tags: [java, equals]
 ---
@@ -59,4 +59,4 @@ Khi khởi tạo một chuỗi mới `s2 = "vinajar"` (**String literals**) khô
 Vậy `==` và `equals` được dùng khi nào:
 
 - Sử dụng `==` cho các kiểu dữ liệu nguyên thủy
-- Việc so sánh đối tượng mà so sánh cả địa chỉ là rất hiếm, vì vậy trừ các tác vụ đặc biệt thì so sánh đối tượng luôn dùng `equals`
+- Việc so sánh đối tượng mà so sánh cả địa chỉ là rất hiếm, vì vậy trừ các tác vụ đặc biệt thì so sánh đối tượng hay so sánh chuỗi luôn dùng `equals`
